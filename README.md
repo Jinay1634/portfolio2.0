@@ -87,7 +87,7 @@ An AI-powered database assistant that converts natural language into safe SQL qu
 - AWS S3, Cloud Storage
 
 ### DevOps & Tools
-- AWS, Docker, CI/CD
+- AWS, Docker, CI/CD, Azure, GCP
 - GitHub, Git, Agile, Jira
 - Playwright (Testing)
 - Microservices Architecture
@@ -171,10 +171,3 @@ I'm actively seeking **Full Stack Developer** and **Software Engineer** position
 
 Let's connect!
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-Built with ❤️ using Next.js 16, React 19, TypeScript, TailwindCSS 4, and Framer Motion
